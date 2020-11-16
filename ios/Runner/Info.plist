@@ -41,5 +41,21 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+
+	<!-- ImagePicker permissions -->
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Please allow us to access your library</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Please allow us to access your camera</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Please allow us to access your microphone</string>
+
+	<!-- Location permissions -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please allow us to access your location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Please allow us to access your location</string>
+
+
 </dict>
 </plist>
